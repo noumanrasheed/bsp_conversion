@@ -7,8 +7,7 @@ import streamlit.components.v1 as components
 from streamlit.components.v1 import html
 import pathlib
 import logging
-
-
+import BeautifulSoup
 
 # Google AdSense ad code
 adsense_ad = """
