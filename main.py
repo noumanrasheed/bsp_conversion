@@ -8,6 +8,7 @@ from streamlit.components.v1 import html
 import pathlib
 import logging
 from bs4 import BeautifulSoup
+import shutil
 
 # Google AdSense ad code
 adsense_url = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
