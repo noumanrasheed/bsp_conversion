@@ -12,13 +12,13 @@ from streamlit.components.v1 import html
 adsense_ad = """
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7227469495285542"
      crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-        style="display:block"
-        data-ad-client="ca-pub-7227469495285542"
-        data-ad-format="auto"
-        data-adtest="on"
-        data-full-width-responsive="true">
-    </ins>
+# <ins class="adsbygoogle"
+#         style="display:block"
+#         data-ad-client="ca-pub-7227469495285542"
+#         data-ad-format="auto"
+#         data-adtest="on"
+#         data-full-width-responsive="true">
+#     </ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
