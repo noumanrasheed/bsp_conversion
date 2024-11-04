@@ -10,7 +10,8 @@ from streamlit.components.v1 import html
 
 # Google AdSense ad code
 adsense_ad = """
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7227469495285542"
+     crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
         style="display:block"
         data-ad-client="ca-pub-####"
